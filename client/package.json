@@ -2,7 +2,8 @@
   "name": "alphadnd_front",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:8000",
+  
+  "homepage":" https://node-react-apppp.herokuapp.com",
   "dependencies": {
     "@ant-design/icons": "^4.0.0",
     "@material-ui/core": "^4.11.2",
@@ -27,7 +28,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "set PORT=8000 && react-scripts start",
+    "start": " react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
